@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HugoDeTierny
+- 👋 Hi, I’m @Hugo Tierny
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on beginner project
